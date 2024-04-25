@@ -15,7 +15,8 @@
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiffanyrayanne@gmail.com)
 
 
-![RayanneTiffany GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanneTiffany_icons=true&theme=gotham)
+ ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanneTiffany&theme=radical)
+
 
 
 
