@@ -31,8 +31,19 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nawsacul/nawsacul/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nawsacul/nawsacul/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 <!-- GIF -->
-![d481f3c72e283309071f79e01b05c06d](https://github.com/RayanneTiffany/RayanneTiffany/assets/144375674/9cedffc8-cf4c-4784-b64e-5a951900cf9c)
+<p align="left">
+    <img align="center" src="https://github.com/RayanneTiffany/RayanneTiffany/assets/144375674/9cedffc8-cf4c-4784-b64e-5a951900cf9c" alt="Imagem">
+</p>
 
 
