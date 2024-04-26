@@ -41,9 +41,3 @@
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 
-<!-- GIF -->
-<p align="left">
-    <img align="center" src="https://github.com/RayanneTiffany/RayanneTiffany/assets/144375674/9cedffc8-cf4c-4784-b64e-5a951900cf9c" alt="Imagem">
-</p>
-
-
